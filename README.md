@@ -11,9 +11,11 @@ The deck initializes an array called box, which contains all the cards that are 
 
 Then I have a method shuffling them, because what are cards if they can't be shuffled. Then another method is called to show the rank and suit side by side after the shuffle.
 
-=== The functionality is simple. All you have to do is instantiate a new deck like so: vegas = Deck.new
+=== 
 
-Then, shuffle with vegas.shuffle_deck
+The functionality is simple. All you have to do is instantiate a new deck like so: <pre><code>vegas = Deck.new</code></pre>
 
-And to see what the deck looks like after the shuffle, show it with vegas.show
+Then, shuffle with <pre><code>vegas.shuffle_deck</pre></code>
+
+And to see what the deck looks like after the shuffle, show it with <pre><code>vegas.show</pre></code>
 
