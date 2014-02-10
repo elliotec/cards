@@ -19,3 +19,7 @@ Then, shuffle with <pre><code>vegas.shuffle_deck</pre></code>
 
 And to see what the deck looks like after the shuffle, show it with <pre><code>vegas.show</pre></code>
 
+License
+===
+
+[MIT License](http://elliotec.mit-license.org/)
